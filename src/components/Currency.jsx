@@ -6,7 +6,7 @@ import axios from 'axios';
 function Currency() {
 
   let BASE_URL = "https://api.freecurrencyapi.com/v1/latest"
-  let API_KEY = "fca_live_xrOCiQ6jiZRzA4ewxOeTUFBezP31oNfmwncfZ5KC"
+  let API_KEY = "*********************"
  
 
   const [amount, setAmount] = useState();
